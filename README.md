@@ -1,2 +1,11 @@
-# random-walk-simulation
-A Python project that simulates a random walk using dice rolls. The program generates random numbers, simulates dice rolls, and tracks a step value that fluctuates based on the outcome of the dice rolls. It includes simulations with varying behaviors, such as limiting the step value to prevent negative steps.
+Random Walk Simulation
+This project demonstrates a random walk simulation using Python and NumPy. The simulation uses dice rolls to determine movement and includes logic to adjust behavior such as preventing negative steps.
+
+Features
+Generate random numbers with reproducible results using seeds.
+Simulate dice rolls to determine step changes.
+Visualize random walks over 100 steps or more.
+Implement custom behavior like bounds to prevent negative steps.
+Requirements
+Python 3.6+
+NumPy library
